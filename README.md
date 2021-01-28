@@ -6,10 +6,10 @@
 python3 main_improved.py
 
 ### Requirements ###
-python v3.
-opencv v2.
-numpy
-pytesseract
+* python v3.
+* opencv v2.
+* numpy
+* pytesseract
 
 ### Overview ###
 The project consists of a  constructed cardboard maze with all the signs placed on 
